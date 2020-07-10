@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**cormen3/cormen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer, with a focus on mobile applications and Android development.
 
-Here are some ideas to get you started:
+Experienced ✓ Analytical ✓ Detail oriented ✓ Self motivated ✓ Independent ✓ Team player ✓ Lifelong learner ✓ Kotlin enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Find me on
+https://stackoverflow.com/users/3686336/h-gheisari
+
+
+- Skilled in
+Android app development • Mobile software engineering • Java • Kotlin • Android SDK • Object Oriented programming • OOP • Reactive programming • Mobile architectural patterns • Design patterns
+
+- Efficient in
+Android studio • Android lifecycle • Clean architecture • Model View Presenter • MVP • Model View ViewModel • MVVM • 3rd Party APIs • Google Maps • Rx • RxJava • RxAndroid • Retrofit • Dagger2 • Git • Scrum
+
+- Industries with hands on experience
+Healthcare • Medical • Transportation 
